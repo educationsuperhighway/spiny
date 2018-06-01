@@ -5,6 +5,8 @@
 
 CLI for managing dev databases
 
+Built with [oclif](https://oclif.io
+
 [![Version](https://img.shields.io/npm/v/spiny.svg)](https://npmjs.org/package/spiny)
 [![CircleCI](https://circleci.com/gh/educationsuperhighway/spiny/tree/master.svg?style=shield)](https://circleci.com/gh/educationsuperhighway/spiny/tree/master)
 [![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/educationsuperhighway/spiny?branch=master&svg=true)](https://ci.appveyor.com/project/educationsuperhighway/spiny/branch/master)
